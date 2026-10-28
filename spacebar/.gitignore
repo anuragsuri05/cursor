@@ -1,0 +1,5 @@
+node_modules
+dist
+.spacebar-test
+.wstest*.mjs
+.DS_Store
